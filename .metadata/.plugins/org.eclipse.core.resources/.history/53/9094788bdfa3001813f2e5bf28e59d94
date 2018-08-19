@@ -1,0 +1,7 @@
+
+public interface DeveloperStudient {
+	
+	void toProgram();
+	void toDrinkCoffe();
+	void toVisitStackoverflow();
+}
